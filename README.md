@@ -1,8 +1,8 @@
-Onde Hoje - Frontend
+# Onde Hoje - Frontend
 
 Interface web da aplicação Onde Hoje, responsável pela interação do usuário com a plataforma de descoberta de eventos e estabelecimentos.
 
-O frontend consome a API desenvolvida em Node.js com NestJS, responsável pela autentação, geolocalização, pagamentos e gerenciamento dos dados da aplicação.
+O frontend consome a API desenvolvida em Node.js com NestJS, responsável pela autenticação, geolocalização, pagamentos e gerenciamento dos dados da aplicação.
 
 ## 🔗 Backend API
 
@@ -14,7 +14,7 @@ O Onde Hoje é uma aplicação web desenvolvida com Next.js que conecta usuário
 
 A interface foi desenvolvida com foco em performance e experiência do usuário, permitindo que usuários encontrem opções próximas com base na sua localização, enquanto empresas podem divulgar seus eventos dentro da plataforma.
 
-💳 A monetização da plataforma é realizada através de planos de divulgação PELA plataforma Stripe, permitindo que empresas promovam seus eventos e estabelecimentos dentro da aplicação.
+💳 A monetização da plataforma é realizada através de planos de divulgação pagos por meio da plataforma Stripe, permitindo que empresas promovam seus eventos e estabelecimentos dentro da aplicação.
 
 A aplicação utiliza React Query para gerenciamento de estado assíncrono, TailwindCSS e shadcn/ui para construção da interface, além de React Hook Form + Zod para validação de formulários e login social com Google Auth.
 
@@ -47,6 +47,7 @@ Tela principal da aplicação onde o usuário pode visualizar eventos e estabele
 - Interface de moderação de conteúdo
 
 ## 🛠️ Tech Stack
+- TypeScript
 - React
 - Next.js
 - React Query
