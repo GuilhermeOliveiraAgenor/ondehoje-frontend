@@ -1,4 +1,4 @@
-# Onde Hoje - Frontend
+# 🚀 Onde Hoje - Frontend
 
 Interface web da aplicação Onde Hoje, responsável pela interação do usuário com a plataforma de descoberta de eventos e estabelecimentos.
 
