@@ -31,9 +31,13 @@ A gestão do projeto foi realizada com Jira, garantindo organização, divisão 
 
 ## 📷 Interface
 
-Tela principal da aplicação onde o usuário pode visualizar eventos e estabelecimentos próximos com base na sua localização.
+Tela principal da aplicação onde o usuário pode visualizar eventos e estabelecimentos.
 
 <p align="center"> <img src="./home.png" width="1000"> </p>
+Tela que que lista os detalhes da atração.
+<p align="center"> <img src="./event-details.png" width="1000"> </p>
+Tela de pagamento
+<p align="center"> <img src="./payment.png" width="1000"> </p>
 
 
 ## ⚙️ Features
