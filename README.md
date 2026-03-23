@@ -2,7 +2,7 @@
 
 Interface web da aplicação Onde Hoje, responsável pela interação do usuário com a plataforma de descoberta de eventos e estabelecimentos.
 
-O frontend consome a API desenvolvida em Node.js com NestJS, responsável pela autenticação, geolocalização, pagamentos e gerenciamento dos dados da aplicação.
+O frontend consome a API desenvolvida em **Node.js** com **NestJS**, responsável pela autenticação, geolocalização, **pagamentos** e gerenciamento dos dados da aplicação.
 
 ## 🔗 Backend API
 
@@ -10,13 +10,13 @@ https://github.com/GuilhermeOliveiraAgenor/ondehoje-backend
 
 ## 📌 About
 
-O Onde Hoje é uma aplicação web desenvolvida com Next.js que conecta usuários a eventos e estabelecimentos de entretenimento de forma inteligente, utilizando filtros, categorias e geolocalização.
+O Onde Hoje é uma aplicação web desenvolvida com **Next.js** que conecta usuários a eventos e estabelecimentos de entretenimento de forma inteligente, utilizando filtros, categorias e geolocalização.
 
 A interface foi desenvolvida com foco em performance e experiência do usuário, permitindo que usuários encontrem opções próximas com base na sua localização, enquanto empresas podem divulgar seus eventos dentro da plataforma.
 
-💳 A monetização da plataforma é realizada através de planos de divulgação pagos por meio da plataforma Stripe, permitindo que empresas promovam seus eventos e estabelecimentos dentro da aplicação.
+💳 A monetização da plataforma é realizada através de planos de divulgação pagos por meio da plataforma **Stripe**, permitindo que empresas promovam seus eventos e estabelecimentos dentro da aplicação.
 
-A aplicação utiliza React Query para gerenciamento de estado assíncrono, TailwindCSS e shadcn/ui para construção da interface, além de React Hook Form + Zod para validação de formulários e login social com Google Auth.
+A aplicação utiliza **React Query** para gerenciamento de estado assíncrono, **TailwindCSS** e **shadcn/ui** para construção da interface, além de **React Hook Form + Zod** para validação de formulários e login social com **Google Auth**.
 
 >📄 Acesse a documentação completa:
 ><br>
@@ -25,18 +25,17 @@ A aplicação utiliza React Query para gerenciamento de estado assíncrono, Tail
 
 ## 👨‍💻 Desenvolvimento
 
-Este projeto foi desenvolvido em equipe como parte de um Trabalho de Conclusão de Curso (TCC), com 5 integrantes, envolvendo desde a concepção da arquitetura até a implementação completa do sistema.
+Este projeto foi desenvolvido em equipe como parte de um **Trabalho de Conclusão de Curso (TCC)**, com **5 integrantes**, envolvendo desde a concepção da arquitetura até a implementação completa do sistema.
 
-A gestão do projeto foi realizada com Jira, garantindo organização, divisão de tarefas e acompanhamento do progresso, sempre com foco em colaboração e entrega contínua.
+A gestão do projeto foi realizada com **Jira**, garantindo organização, divisão de tarefas e acompanhamento do progresso, sempre com foco em colaboração e entrega contínua.
 
 ## 📷 Interface
 
-Tela principal da aplicação onde o usuário pode visualizar eventos e estabelecimentos.
-
-<p align="center"> <img src="./home.png" width="1000"> </p>
-Tela que que lista os detalhes da atração.
+**Tela principal da aplicação**
+<p align="center"> <img src="./home-menu.png" width="1000"> </p>
+<b>Detalhes do evento</b>
 <p align="center"> <img src="./event-details.png" width="1000"> </p>
-Tela de pagamento
+<b>Tela de pagamento</b>
 <p align="center"> <img src="./payment.png" width="1000"> </p>
 
 
